@@ -1,4 +1,4 @@
-Execute word count using HappyBase in VS:
+Execute Live Stock Data using HappyBase in VS:
 
 Hadoop version -3.3.1
 Hbase version -1.4.6
